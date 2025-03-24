@@ -2,5 +2,9 @@
 
 rmdir /s /q .git
 
+
+
+
 /s → Deletes the folder and all its contents.
+
 /q → Suppresses confirmation prompts.
